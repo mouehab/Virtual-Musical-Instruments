@@ -38,6 +38,7 @@
         -And then I routed each button of the piano to the right corresponding frequency.
         -then I created another function that takes the samples and the button index to play the given samples as a sound.
      * ### Piano Screenshot:
+        -Piano
               ![Zero Position](Readme_Screenshots/piano.png)        
 
 * # Problems & Solve:
