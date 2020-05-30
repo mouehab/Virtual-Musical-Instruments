@@ -37,8 +37,7 @@
         -In the piano, the implementation was much easier, i've just created a function that Compute N samples of a sine wave with given           frequency and peak amplitude.
         -And then I routed each button of the piano to the right corresponding frequency.
         -then I created another function that takes the samples and the button index to play the given samples as a sound.
-     * ### For Example Screenshots:
-         -Piano:
+     * ### Piano Screenshot:
               ![Zero Position](Readme_Screenshots/piano.png)        
 
 * # Problems & Solve:
