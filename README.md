@@ -61,5 +61,5 @@
               ![Zero Position](Readme_Screenshots/piano_notes.gif)     
          
          * # Screenshot of my Final Program Output:
-               ![Zero Position](Readme_Screenshots/final.png)     
+              ![Zero Position](Readme_Screenshots/result.png)     
 
